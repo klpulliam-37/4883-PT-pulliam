@@ -3,7 +3,7 @@
 |   #   | Folder Link                                                                                    | Assignment Description    |
 | :---: | ---------------------------------------------------------------------------------------------- | ------------------------- |
 |   1   | [A03](https://github.com/klpulliam-37/4883-PT-pulliam/tree/main/Assignments/A03)               | Hashmat the Brave Warrior |
-|   2   | [A03](https://github.com/klpulliam-37/4883-PT-pulliam/tree/main/Assignments/A04)               | Easy Breezy Problems      |
+|   2   | [A04](https://github.com/klpulliam-37/4883-PT-pulliam/tree/main/Assignments/A04)               | Easy Breezy Problems      |
 |   3   | [P161](https://github.com/klpulliam-37/4883-PT-pulliam/tree/main/Assignments/P161)             | Traffic Lights            |
 |   4   | [A06/P10226](https://github.com/klpulliam-37/4883-PT-pulliam/tree/main/Assignments/A06)        | Hardwood Species          |
 |   5   | [A07/P514](https://github.com/klpulliam-37/4883-PT-pulliam/tree/main/Assignments/A07)          | Rails                     |
