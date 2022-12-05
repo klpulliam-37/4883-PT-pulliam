@@ -2,7 +2,7 @@
 
 |   #   | Folder Link                                                                                | Assignment Description    |
 | :---: | ------------------------------------------------------------------------------------------ | ------------------------- |
-|   1   | [A03](https://github.com/klpulliam-37/4883-PT-pulliam/tree/main/Assignments/A04/P10055)    | Hashmat the Brave Warrior |
+|   1   | [P10055](https://github.com/klpulliam-37/4883-PT-pulliam/tree/main/Assignments/A04/P10055)    | Hashmat the Brave Warrior |
 |   2   | [P161](https://github.com/klpulliam-37/4883-PT-pulliam/tree/main/Assignments/A04/P10302)   | Summation of Polynomials  |
 |   3   | [P10226](https://github.com/klpulliam-37/4883-PT-pulliam/tree/main/Assignments/A04/P10370) | Above Average             |
 |   4   | [P514](https://github.com/klpulliam-37/4883-PT-pulliam/tree/main/Assignments/P10783)       | Odd Sum                   |
